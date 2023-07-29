@@ -16,7 +16,7 @@ export default function App() {
         </a>{" "}
         and is{" "}
         <a
-          href="https://www.instagram.com/natalia_zhill/"
+          href="https://github.com/NataliiaDerzhylo/react-weather-app"
           target="_blank rel=noopener"
         >
           {" "}
