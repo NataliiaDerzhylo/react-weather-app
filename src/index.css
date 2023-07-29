@@ -1,1 +1,5 @@
-
+body {
+  font-family: arial, sans-serif;
+  background-image: url(back.jpg);
+  background-size: 1800px;
+}

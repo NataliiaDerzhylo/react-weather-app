@@ -1,0 +1,18 @@
+.Weather {
+  border: 2px solid #ff65b1;
+}
+.Weather h1 {
+  color: #5dc6eb;
+  font-size: 60px;
+  font-weight: 600;
+  text-align: left;
+}
+.Weather li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  line-height: 19.2px;
+  text-align: left;
+  color: lightslategray;
+}
