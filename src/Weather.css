@@ -33,10 +33,11 @@ footer {
   border-width: 2px;
   border-color: #ff65b1;
 }
-.weather-temperature img {
+.weather-temperature canvas {
   margin-right: 10px;
   height: 70px;
   width: 70px;
+  margin-top: 10px;
 }
 .weather-temperature strong {
   color: #5dc6eb;
@@ -78,4 +79,10 @@ footer {
   border-radius: 5px;
   background: linear-gradient(-225deg, #fffeff 0%, #d7fffe 100%);
   background-repeat: no-repeat;
+}
+#icon-temp {
+  margin-top: 20px;
+}
+#additional {
+  margin-top: 20px;
 }
