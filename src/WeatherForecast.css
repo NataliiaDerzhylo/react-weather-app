@@ -11,9 +11,8 @@
 
 .weather-forecast-date {
   font-size: 16px;
-  opacity: 5.5;
-  color: #ff65b1;
-  font-weight: 100;
+  color: #5dc6eb;
+  font-weight: 500;
   font-family: arial, sans-serif;
 }
 .weather-forecast-temperature-min {
@@ -26,4 +25,8 @@
 
 .weather-forecast-temperature-max {
   font-weight: 600;
+}
+canvas {
+  height: 50%;
+  width: 50px;
 }

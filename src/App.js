@@ -12,6 +12,7 @@ export default function App() {
           <a
             href="https://www.instagram.com/natalia_zhill/"
             target="_blank rel=noopener"
+            id="link"
           >
             {" "}
             Nataliia Derzhylo{" "}
@@ -20,6 +21,7 @@ export default function App() {
           <a
             href="https://github.com/NataliiaDerzhylo/react-weather-app"
             target="_blank rel=noopener"
+            id="link"
           >
             {" "}
             open-sourced on GitHub
